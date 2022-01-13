@@ -8,3 +8,7 @@ See the result here: [E-commerce-card](https://e-commerce-card.netlify.app/)
 
 `npm install`
 `npm run serve`
+
+### Build for production
+
+`npm build`
