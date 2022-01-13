@@ -5,7 +5,8 @@
   "repository": "https://gitlab.com/refurbed/recruiting/test-task-web01.git",
   "main": "index.js",
   "scripts": {
-    "serve": "webpack serve --mode=development --open"
+    "serve": "webpack serve --mode=development --open",
+    "build": "webpack"
   },
   "author": "refurbed",
   "license": "ISC",
